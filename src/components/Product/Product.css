@@ -33,7 +33,7 @@
 .btn-cart {
   width: 100%;
   background: #ffe0b3;
-  border: 1px solid #95a0a7;
+  border-top: 1px solid #95a0a7;
   border-radius: 0px 0px 8px 8px;
   bottom: 0;
   position: absolute;

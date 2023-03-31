@@ -22,7 +22,6 @@ a {
 body {
   margin: 0;
   display: flex;
-  /* place-items: center; */
   min-width: 320px;
   min-height: 100vh;
 }
@@ -44,7 +43,7 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color: #e79e01;
 }
 button:focus,
 button:focus-visible {
