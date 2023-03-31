@@ -5,7 +5,11 @@
 
 .product-container{
     width: 80%;
-    padding-left: 10%;
+    /* padding-left: 10%; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 45px;
+    margin: 50px;
 }
 .cart-container{
     height: 100vh;
