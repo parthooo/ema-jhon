@@ -1,0 +1,14 @@
+.shop{
+    display: flex;
+    justify-content: space-between;
+}
+
+.product-container{
+    width: 80%;
+    padding-left: 10%;
+}
+.cart-container{
+    height: 100vh;
+    background-color: #ff990075;
+    width: 20%;
+}
