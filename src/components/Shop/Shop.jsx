@@ -17,6 +17,8 @@ const Shop = () => {
     useEffect(()=>{
         const storedCart = getShoppingCart();
         console.log(storedCart);
+        //step 1: get the product using id
+
     }, [])
 
     const handleAddToCart = (product) => {
@@ -46,3 +48,4 @@ const Shop = () => {
 };
 
 export default Shop;
+

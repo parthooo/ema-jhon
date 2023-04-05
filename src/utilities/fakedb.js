@@ -3,6 +3,8 @@ const addToDb = id => {
     let shoppingCart = getShoppingCart();
     // add quantity
     const quantity = shoppingCart[id];
+
+    // console.log(shoppingCart);
     if (!quantity) {
         shoppingCart[id] = 1;
     }
