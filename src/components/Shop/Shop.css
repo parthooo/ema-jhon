@@ -12,10 +12,13 @@
     margin: 50px;
 }
 .cart-container{
-    height: 100%;
+    height: 100vh;
     background-color: #ff990075;
     width: 20%;
     padding: 20px;
+    padding-top: 10px;
+    position: sticky;
+    top: 0;
 }
 
 .text-center{
