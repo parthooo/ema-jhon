@@ -1,0 +1,12 @@
+ 
+.btn-clear{
+    width: 90%;
+    height: 56px;
+    font-size: 21px;
+    margin: 1px auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: #FF3030;
+    border-radius: 4px ;
+    align-items: center;
+}

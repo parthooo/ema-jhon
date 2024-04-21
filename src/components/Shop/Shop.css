@@ -24,3 +24,15 @@
 .text-center{
     text-align: center;
 }
+
+.btn-proceed{
+    width: 90%;
+    height: 56px;
+    font-size: 21px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: chocolate;
+    border-radius: 4px ;
+    align-items: center;
+}
